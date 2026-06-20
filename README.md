@@ -4,6 +4,7 @@ Bem-vindo! Este arquivo mostra o essencial para instalar e testar o APK rapidame
 
 # 1) Instalação do APK
 •
+Vá na área de Realeases do repositório e baixe o apk do jogo.
 Instalação direta: transferir o APK e tocar para instalar. Permita “Instalar de fontes desconhecidas” se solicitado.
 Se a instalação falhar por assinatura, remova versão anterior antes:
 Configurações do Android → Aplicativos → Tá Ligado? → Desinstalar
